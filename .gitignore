@@ -1,0 +1,8 @@
+# Ignorer le fichier PDF
+01.pdf
+
+# Ignorer tous les fichiers de log ou de terminal
+*.log
+*.out
+*.err
+
