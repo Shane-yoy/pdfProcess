@@ -1,7 +1,7 @@
 import pytesseract
 from pdf2image import convert_from_path
 
-# Convertir le PDF en images (chaque page sera une image)
+# PDF en images
 pages = convert_from_path('01.pdf')
 
 def tess_(pages):
